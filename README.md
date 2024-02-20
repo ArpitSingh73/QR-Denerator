@@ -1,2 +1,6 @@
-This is a beginner level project, which uses concept of 'Fetch API'. Users can create QR of input provided.
-https://arpitsingh73.github.io/QR-Generator/
+# QR-Generator
+
+Generate yout QR at :- https://arpitsingh73.github.io/QR-Generator/
+
+Hi there🖐, this project creates QR as per user's input. The key concept here is :-
+API fetching✔
